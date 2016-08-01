@@ -1,7 +1,6 @@
 /*
  * main.cpp
  *
- *  Created on: Mar 5, 2011
  *      Author: boazraz
  *      the order for the  array fName, lName, gpa, cHoures, address1, address2 ,city, state,zip, month, day, year  = 12
  */

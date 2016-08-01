@@ -1,5 +1,5 @@
 //
-// Created by Boaz Raz on 7/31/16.
+// Created by Boaz Raz
 //
 
 #ifndef A_HEAP_OF_STUDENTS_STUDENT_H
